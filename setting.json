@@ -5,7 +5,7 @@
     "sideBar.foreground": "#c7c7c7",
     "breadcrumb.background": "#202029",
     "minimap.background": "#202029",
-    "sideBarSectionHeader.background": "#21232b",
+    "sideBarSectionHeader.background": "#202029",
     "titleBar.activeBackground": "#282830",
     "titleBar.activeForeground": "#c7c7c7",
     "widget.shadow": "#2a2a3300",
